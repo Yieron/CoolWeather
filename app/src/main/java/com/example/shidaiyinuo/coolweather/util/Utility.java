@@ -5,7 +5,6 @@ import android.text.TextUtils;
 import com.example.shidaiyinuo.coolweather.db.City;
 import com.example.shidaiyinuo.coolweather.db.County;
 import com.example.shidaiyinuo.coolweather.db.Province;
-import com.google.gson.JsonArray;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -24,6 +23,7 @@ public class Utility {
                     province.setProvinceCode(provinceObject.getInt("id"));
                     province.save();
                 }
+                return true;
             } catch (JSONException e) {
                 e.printStackTrace();
             }
@@ -41,9 +41,10 @@ public class Utility {
                     City city = new City();
                     city.setCityName(provinceObject.getString("name"));
                     city.setCityCode(provinceObject.getInt("id"));
-                    city.setId(provinceId);
+                    city.setProvinceId(provinceId);
                     city.save();
                 }
+                return true;
             } catch (JSONException e) {
                 e.printStackTrace();
             }
@@ -60,10 +61,11 @@ public class Utility {
                     JSONObject provinceObject = allCounties.getJSONObject(i);
                     County county = new County();
                     county.setCountyName(provinceObject.getString("name"));
-                    county.setWeatherId(provinceObject.getInt("weather_id"));
-                    county.setId(cityId);
+                    county.setWeatherId(provinceObject.getString("weather_id"));
+                    county.setCityId(cityId);
                     county.save();
                 }
+                return true;
             } catch (JSONException e) {
                 e.printStackTrace();
             }
