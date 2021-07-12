@@ -1,4 +1,4 @@
-#Tue May 12 15:45:25 CST 2020
-base.0=/Users/yindong/Android/CoolWeather/app/build/intermediates/dex/debug/out/classes.dex
+#Mon Jul 12 19:52:55 CST 2021
+base.0=D\:\\AndroidProject\\CoolWeather\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
