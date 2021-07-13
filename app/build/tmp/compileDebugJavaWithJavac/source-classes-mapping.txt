@@ -1,0 +1,54 @@
+com/example/shidaiyinuo/coolweather/gson/AQI.java
+ com.example.shidaiyinuo.coolweather.gson.AQI
+ com.example.shidaiyinuo.coolweather.gson.AQI$AQICity
+com/example/shidaiyinuo/coolweather/gson/Forecast.java
+ com.example.shidaiyinuo.coolweather.gson.Forecast
+ com.example.shidaiyinuo.coolweather.gson.Forecast$More
+ com.example.shidaiyinuo.coolweather.gson.Forecast$Temperature
+com/example/shidaiyinuo/coolweather/ui/ChooseAreaFragment.java
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment$1
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment$1$1
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment$2
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment$2$1
+ com.example.shidaiyinuo.coolweather.ui.ChooseAreaFragment$2$2
+com/example/shidaiyinuo/coolweather/gson/Now.java
+ com.example.shidaiyinuo.coolweather.gson.Now
+ com.example.shidaiyinuo.coolweather.gson.Now$More
+com/example/shidaiyinuo/coolweather/util/HttpUtil.java
+ com.example.shidaiyinuo.coolweather.util.HttpUtil
+com/example/shidaiyinuo/coolweather/service/AutoUpdateService.java
+ com.example.shidaiyinuo.coolweather.service.AutoUpdateService
+ com.example.shidaiyinuo.coolweather.service.AutoUpdateService$1
+ com.example.shidaiyinuo.coolweather.service.AutoUpdateService$2
+com/example/shidaiyinuo/coolweather/util/Utility.java
+ com.example.shidaiyinuo.coolweather.util.Utility
+com/example/shidaiyinuo/coolweather/db/Province.java
+ com.example.shidaiyinuo.coolweather.db.Province
+com/example/shidaiyinuo/coolweather/gson/Suggestion.java
+ com.example.shidaiyinuo.coolweather.gson.Suggestion
+ com.example.shidaiyinuo.coolweather.gson.Suggestion$CarWash
+ com.example.shidaiyinuo.coolweather.gson.Suggestion$Comfort
+ com.example.shidaiyinuo.coolweather.gson.Suggestion$Sport
+com/example/shidaiyinuo/coolweather/ui/WeatherActivity.java
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$1
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$2
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$3
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$3$1
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$4
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$4$1
+ com.example.shidaiyinuo.coolweather.ui.WeatherActivity$4$2
+com/example/shidaiyinuo/coolweather/gson/Weather.java
+ com.example.shidaiyinuo.coolweather.gson.Weather
+com/example/shidaiyinuo/coolweather/db/City.java
+ com.example.shidaiyinuo.coolweather.db.City
+com/example/shidaiyinuo/coolweather/BuildConfig.java
+ com.example.shidaiyinuo.coolweather.BuildConfig
+com/example/shidaiyinuo/coolweather/db/County.java
+ com.example.shidaiyinuo.coolweather.db.County
+com/example/shidaiyinuo/coolweather/MainActivity.java
+ com.example.shidaiyinuo.coolweather.MainActivity
+com/example/shidaiyinuo/coolweather/gson/Basic.java
+ com.example.shidaiyinuo.coolweather.gson.Basic
+ com.example.shidaiyinuo.coolweather.gson.Basic$Update
