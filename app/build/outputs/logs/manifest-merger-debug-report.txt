@@ -1,168 +1,168 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [org.litepal.android:core:1.3.2] C:\Users\1\.gradle\caches\transforms-2\files-2.1\9a2c74d6e6acb5d93b7eeba03dc35d98\core-1.3.2\AndroidManifest.xml:2:1-16:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [org.litepal.android:core:1.3.2] /Users/yindongdong/.gradle/caches/transforms-3/9b92fa631c0a82d9b3d76fe56951b18f/transformed/core-1.3.2/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:3:5-50
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:7:5-28:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [org.litepal.android:core:1.3.2] C:\Users\1\.gradle\caches\transforms-2\files-2.1\9a2c74d6e6acb5d93b7eeba03dc35d98\core-1.3.2\AndroidManifest.xml:11:5-14:19
-MERGED from [org.litepal.android:core:1.3.2] C:\Users\1\.gradle\caches\transforms-2\files-2.1\9a2c74d6e6acb5d93b7eeba03dc35d98\core-1.3.2\AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [org.litepal.android:core:1.3.2] /Users/yindongdong/.gradle/caches/transforms-3/9b92fa631c0a82d9b3d76fe56951b18f/transformed/core-1.3.2/AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.3.2] /Users/yindongdong/.gradle/caches/transforms-3/9b92fa631c0a82d9b3d76fe56951b18f/transformed/core-1.3.2/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:10:9-40
 	android:allowBackup
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:14:9-40
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:8:9-54
 activity#com.example.shidaiyinuo.coolweather.MainActivity
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:19:27-74
 activity#com.example.shidaiyinuo.coolweather.ui.WeatherActivity
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:22:9-56
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:22:9-56
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:22:19-53
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:22:19-53
 service#com.example.shidaiyinuo.coolweather.service.AutoUpdateService
-ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:24:9-27:47
+ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:24:9-27:47
 	android:enabled
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:26:13-35
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:26:13-35
 	android:exported
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml:25:13-54
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml:25:13-54
 uses-sdk
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
-MERGED from [org.litepal.android:core:1.3.2] C:\Users\1\.gradle\caches\transforms-2\files-2.1\9a2c74d6e6acb5d93b7eeba03dc35d98\core-1.3.2\AndroidManifest.xml:7:5-9:41
-MERGED from [org.litepal.android:core:1.3.2] C:\Users\1\.gradle\caches\transforms-2\files-2.1\9a2c74d6e6acb5d93b7eeba03dc35d98\core-1.3.2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [org.litepal.android:core:1.3.2] /Users/yindongdong/.gradle/caches/transforms-3/9b92fa631c0a82d9b3d76fe56951b18f/transformed/core-1.3.2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.3.2] /Users/yindongdong/.gradle/caches/transforms-3/9b92fa631c0a82d9b3d76fe56951b18f/transformed/core-1.3.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\CoolWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yindongdong/code_android/CoolWeather/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\dcc2f99ce2547db3ea76875af09dd323\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\d5fa5578d183ca3cd8733041fb0161a4\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\c0cc7b6eae9f5c5c76df86853f3e0d81\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\010b87393ab38d2631f1f68d1eb5ee56\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\82ed3d43ebd3c2ef98494b9f55226d11\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\3b69cc7f7804f21700c4af267314535c\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\0dcde6c991465cdc2c876fc5304a3ca8\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\5b5cd8941a44e75c2cadaa39cadd562e\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/16bf5809f49c827fde94e68a9a65c150/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/9a2e87fd7d27b24adcaf3a61768faf2a/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/e4b3b192556e97c00241810d7aa5f0c6/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/d5dc690df81472f7741f786e79e9f3f9/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/580e0e5f5881971702d4d91c3e6e9904/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/69e521d82a2b10b595936cd3f01578e8/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/1f8288149e2fffc83f252da41a5cde11/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\83ce4754304cd9ed447a36927bf34e5b\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yindongdong/.gradle/caches/transforms-3/3c47f8145528cf4057f74f64ccee4aa5/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\1\.gradle\caches\transforms-2\files-2.1\47ad7fb18ae86123b5bb10260e265e68\runtime-1.0.0\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yindongdong/.gradle/caches/transforms-3/2f4e4a6af833a507b93988136a389013/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58

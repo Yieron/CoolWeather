@@ -5,7 +5,7 @@
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":app" />
         <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.2" />
-        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.2" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.0.2" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -26,13 +26,16 @@
     </facet>
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
-        <compilerSettings />
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
-          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/8524f4afafb6c337be0708d7bc454057/appcompat-v7-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/fd84f3641c7b506ac30803b047b20c8f/animated-vector-drawable-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/a4dca436c2e28f3805f18f88b80f56a7/support-vector-drawable-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/55e59e620914a136ef4d96e43a49f01b/support-v4-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/2e416201cc9d2f6e98227241772d4884/support-media-compat-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/cebf7ae0d7696ed79bda9977d485f298/support-fragment-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/dcbe173d7585b1aededb6c51fa25b467/support-core-utils-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/84ecec5f98f8331630204fcac7730bc0/support-core-ui-26.1.0-api.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/9d58bf5630b9dd2f1386d0c70c73fcf3/support-compat-26.1.0-api.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/222ab8f3d192dc518b75742b8f8b1846/runtime-1.0.0-api.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar;C:/Users/1/.gradle/caches/transforms-2/files-2.1/9690cbabe92600ce778fdc59ef22c90e/core-1.3.2-api.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.21/d207ce2c9bcf17dc8e51bab4dbfdac4d013e7138/kotlin-stdlib-jdk7-1.3.21.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/4bcc2012b84840e19e1e28074284cac908be0295/kotlin-stdlib-1.3.21.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/f30e4a9897913e53d778f564110bafa1fef46643/kotlin-stdlib-common-1.3.21.jar;C:/Users/1/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/1/AppData/Local/Android/Sdk/platforms/android-26/android.jar" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar:/Users/yindongdong/.gradle/caches/transforms-3/286abdf7fbb83f15030f2d923c5b64b8/transformed/appcompat-v7-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/06b19f59a746add0c34001b48c8b6d39/transformed/animated-vector-drawable-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/f3e303eeee04fd4c1ed4cf94e0bf5ed2/transformed/support-vector-drawable-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/59ff1f7907227862831c71b122de1c57/transformed/support-v4-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/d1649aeccb0ebefb23210a8ee19aeef3/transformed/support-media-compat-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/508bc2238712acee3e90e5a35534b20f/transformed/support-fragment-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/6c9b92a7f29c0873f765adbcda428f01/transformed/support-core-utils-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/c3b2fddd05d2ac465e3731d230a7a752/transformed/support-core-ui-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/transforms-3/e0d80ce61bc813db1459167d6a80b2f0/transformed/support-compat-26.1.0-api.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar:/Users/yindongdong/.gradle/caches/transforms-3/c0a928c4113edaded666a9de6374e33f/transformed/runtime-1.0.0-api.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar:/Users/yindongdong/.gradle/caches/transforms-3/663196a1f8c64770d64c11ca0a61823b/transformed/core-1.3.2-api.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.40/2995de8f68444ad47f29e7b59962ac31e6301d7e/kotlin-stdlib-jdk7-1.3.40.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/b8a521c687329303778548e2f09b0ba5b2665236/kotlin-stdlib-1.3.40.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/ff8f3da514fc2877d1303d55e22d6da8156c29fb/kotlin-stdlib-common-1.3.40.jar:/Users/yindongdong/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/yindongdong/Library/Android/sdk/platforms/android-26/android.jar:/Users/yindongdong/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
           <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.6" />
           <option name="languageVersion" value="1.3" />
           <option name="apiVersion" value="1.3" />
           <option name="pluginOptions">
@@ -44,7 +47,14 @@
           </option>
           <option name="pluginClasspaths">
             <array>
-              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.21/311c0d1cbb0a194e8712edaef7b92a8f0919ca26/kotlin-android-extensions-1.3.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.40/e35422f506e548ace9a43e75ecdcc6b965d8d202/kotlin-android-extensions-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.40/3075e01564a08e2d1ceac83175778d459036e5cd/kotlin-compiler-embeddable-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.40/f2f8357e000fd80d8d799110f012b86fd4637386/kotlin-reflect-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.40/3cc25515a8d5e4a59ef85e94625b8bf73bff47b2/kotlin-script-runtime-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/ff8f3da514fc2877d1303d55e22d6da8156c29fb/kotlin-stdlib-common-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.40/b8a521c687329303778548e2f09b0ba5b2665236/kotlin-stdlib-1.3.40.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
             </array>
           </option>
           <option name="errors">
@@ -54,7 +64,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
     <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
@@ -65,6 +75,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/assets" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
@@ -81,9 +92,9 @@
     <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.4.1" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.7" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.21" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.21" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.40" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.40" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.40" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:26.1.0@aar" level="project" />

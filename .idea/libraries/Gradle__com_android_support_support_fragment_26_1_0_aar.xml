@@ -2,9 +2,10 @@
   <library name="Gradle: com.android.support:support-fragment:26.1.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/110eafb1dcdaae1f61ff7428db020346/support-fragment-26.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82ed3d43ebd3c2ef98494b9f55226d11/support-fragment-26.1.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82ed3d43ebd3c2ef98494b9f55226d11/support-fragment-26.1.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/82ed3d43ebd3c2ef98494b9f55226d11/support-fragment-26.1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a0b69ec2ecdb9cc6c71ab35a0e8c121/transformed/support-fragment-26.1.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
